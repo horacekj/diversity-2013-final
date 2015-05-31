@@ -5,8 +5,8 @@
 # Diversity 2013                                                               #
 ################################################################################
  
- This is the program for the MAOR-12T robot used to eliminate enemy player
- 	in Diversity 2013 robot competition.
+ This is program for the main processor (ATmega32) in MAOR-12T robot
+ used to eliminate enemy player in Diversity 2013 robot competition.
  http://diversity.pl/
  
  "Jedovnice" is a nickname of this version.
